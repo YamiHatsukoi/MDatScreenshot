@@ -1,0 +1,11 @@
+D:\New folder\Autoapp\MDAutoScreenshot\bin\Debug\MDAutoScreenshot.exe.config
+D:\New folder\Autoapp\MDAutoScreenshot\bin\Debug\MDAutoScreenshot.exe
+D:\New folder\Autoapp\MDAutoScreenshot\bin\Debug\MDAutoScreenshot.pdb
+D:\New folder\Autoapp\MDAutoScreenshot\obj\Debug\MDAutoScreenshot.csproj.AssemblyReference.cache
+D:\New folder\Autoapp\MDAutoScreenshot\obj\Debug\MDAutoScreenshot.Properties.Resources.resources
+D:\New folder\Autoapp\MDAutoScreenshot\obj\Debug\MDAutoScreenshot.ScreenCaptureForm.resources
+D:\New folder\Autoapp\MDAutoScreenshot\obj\Debug\MDAutoScreenshot.csproj.GenerateResource.cache
+D:\New folder\Autoapp\MDAutoScreenshot\obj\Debug\MDAutoScreenshot.csproj.CoreCompileInputs.cache
+D:\New folder\Autoapp\MDAutoScreenshot\obj\Debug\MDAutoScreenshot.exe
+D:\New folder\Autoapp\MDAutoScreenshot\obj\Debug\MDAutoScreenshot.pdb
+D:\New folder\Autoapp\MDAutoScreenshot\obj\Debug\MDAutoScreenshot.MDatScreenshot.resources
